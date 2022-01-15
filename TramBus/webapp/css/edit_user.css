@@ -1,0 +1,40 @@
+@charset "UTF-8";
+h1{
+	text-align: center;
+	color: white;
+	margin-top: 100px;
+	margin-bottom: 20px;
+}
+.Table{
+	text-align: center;
+	color: black;
+	margin-right: 20%;
+	margin-left: 20%;
+	border: 5px solid #4169E1;
+	border-radius: 30px;
+	background-color: white;
+}
+.Table .Top{
+	margin-top: 20px;
+	margin-left: -10%;
+}
+.Table input{
+  margin-left: -27px;
+  margin-top: 10px;
+  padding: 10px 10px 10px 0px;
+  border: 1px solid #4169E1;
+  outline-color: #4169E1;
+  border-radius: 20px;
+  width: 60%;
+  text-indent: 10px;
+}
+select{
+  margin-left: -27px;
+  margin-top: 10px;
+  padding: 10px 10px 10px 0px;
+  border: 1px solid #4169E1;
+  outline-color: #4169E1;
+  border-radius: 20px;
+  width: 60%;
+  text-indent: 10px;
+}

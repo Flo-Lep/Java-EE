@@ -1,0 +1,120 @@
+h1{ 
+	color: white;
+	margin-top: 3%;
+	text-align: center;
+}
+form {
+  margin-top: 1%;
+  padding: 20px 60px;
+  background-color: white;
+  border-radius: 30px;
+  width: 25%;
+  margin-left: 38%;
+  margin-bottom: -7%;
+}
+
+
+form h1 {
+  font-size: 20px;
+}
+form .Separation { /*Separtion with a line*/
+  width: 100%;
+  height: 3px;
+  background-color: #4169E1;
+}
+form .Form {
+  display: flex;
+  margin-bottom: 20px;
+  width: 100%;
+}
+form .Form .Left .group{ /*Gestion text boxs*/
+  position: relative; 
+  margin-top: 35px;
+  display: flex;
+  width: 100%;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+form .Form .Left .group input {
+  margin-left: -27px;
+  margin-top: 10px;
+  padding: 10px 10px 10px 0px;
+  border: 1px solid #4169E1;
+  outline-color: #4169E1;
+  border-radius: 20px;
+  width: 100%;
+  text-indent: 10px;
+}
+form .Form .Left .group i {
+  margin-left: -60px;
+  position: absolute; /* Gestion of logo position  */
+  left: -0px;
+  top: 12px;
+  padding: 9px 8px;
+  color: #4169E1;
+  
+}
+form .Form .Right .group{ /*Gestion text boxs*/
+  position: relative; 
+  margin-top: 35px;
+  display: flex;
+  width: 100%;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+form .Form .Right .group input {
+  margin-left: 20px;
+  margin-top: 10px;
+  padding: 10px 10px 10px 0px;
+  border: 1px solid #4169E1;
+  outline-color: #4169E1;
+  border-radius: 20px;
+  width: 100%;
+  text-indent: 10px;
+}
+form .Form .Right .group i {
+  margin-left: -7px;
+  position: absolute; /* Gestion of logo position  */
+  left: -0px;
+  top: 12px;
+  padding: 9px 8px;
+  color: #4169E1;
+  
+}
+form .Footer-form input { /* Gestion du bouton */
+  margin-top: 0px;
+  background-color: #4169E1;
+  color: white;
+  font-size: 15px;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 40px;
+  outline: none;
+  cursor: pointer;
+  transition: transform 0.5s;
+}
+
+.Admin input{
+  margin-top: 10px;
+  background-color: #4169E1;
+  color: white;
+  font-size: 15px;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 40px;
+  outline: none;
+  cursor: pointer;
+  transition: transform 0.5s;
+}
+.Left{
+  margin-top: -20px;
+}
+.Right{
+  margin-top: -20px;
+}
+.No_account{
+  margin-top: 10px;
+}
+.Footer-form{
+  margin-top: -20p
+}

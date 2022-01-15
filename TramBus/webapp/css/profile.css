@@ -1,0 +1,94 @@
+@charset "UTF-8";
+h1{
+	margin-top: 5%;
+	color: white;
+	margin-bottom: -3%;
+}
+.Table{
+	color: black;
+	position: relative;
+	border: 5px solid #4169E1;
+	border-radius: 30px;
+	background-color: white;
+	margin-top: 5%;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 30%;	
+}
+.button1 input{
+  margin-top: 10px;
+  background-color: #4169E1;
+  color: white;
+  font-size: 15px;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 40px;
+  outline: none;
+  cursor: pointer;
+  transition: transform 0.5s;
+}
+.button2 input{
+  margin-top: 10px;
+  background-color: #4169E1;
+  color: white;
+  font-size: 15px;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 40px;
+  outline: none;
+  cursor: pointer;
+  transition: transform 0.5s;
+}
+.button3 input{
+  margin-top: 10px;
+  background-color: #4169E1;
+  color: white;
+  font-size: 15px;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 40px;
+  outline: none;
+  cursor: pointer;
+  transition: transform 0.5s;
+  margin-bottom: -0%;
+}
+.button4 input{
+  margin-top: 10px;
+  background-color: #4169E1;
+  color: white;
+  font-size: 15px;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 40px;
+  outline: none;
+  cursor: pointer;
+  transition: transform 0.5s;
+  margin-bottom: -0%;
+}
+.button5 input{
+  margin-top: 10px;
+  background-color: #4169E1;
+  color: white;
+  font-size: 15px;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 40px;
+  outline: none;
+  cursor: pointer;
+  transition: transform 0.5s;
+  margin-bottom: 0%;
+}
+
+.button6 input{
+  margin-top: 10px;
+  background-color: #4169E1;
+  color: white;
+  font-size: 15px;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 40px;
+  outline: none;
+  cursor: pointer;
+  transition: transform 0.5s;
+  margin-bottom: -100px;
+}

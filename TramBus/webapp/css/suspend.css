@@ -1,0 +1,11 @@
+@charset "UTF-8";
+h1{
+	margin-top: 10%;
+	color: white;
+	text-align: center;
+}
+h2{
+	color: white;
+	text-align: center;
+	margin-bottom: -8%;
+}

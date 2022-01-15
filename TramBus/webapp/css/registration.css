@@ -1,0 +1,202 @@
+h1{ 
+	color: white;
+	margin-top: 3%;
+	text-align: center;
+}
+form {
+  margin-top: 1%;
+  padding: 20px 60px;
+  background-color: white;
+  border-radius: 30px;
+  width: 25%;
+  margin-left: 38%;
+  margin-bottom: -22%;
+}
+
+
+form h1 {
+  font-size: 20px;
+}
+form .Separation { /*Separtion with a line*/
+  width: 100%;
+  height: 3px;
+  background-color: #4169E1;
+}
+form .Form {
+  display: flex;
+  margin-bottom: 10px;
+  width: 100%;
+}
+form .Form .Left .group{ /*Gestion text boxs*/
+  position: relative; 
+  margin-top: 37px;
+  display: flex;
+  width: 150%;
+  margin-left: 30%;
+
+}
+form .Form .Left .group input {
+  margin-left: -27px;
+  margin-top: 10px;
+  padding: 10px 10px 10px 0px;
+  border: 1px solid #4169E1;
+  outline-color: #4169E1;
+  border-radius: 20px;
+  width: 100%;
+  text-indent: 10px;
+}
+form .Form .Left .group i {
+  margin-left: -7px;
+  position: absolute; /* Gestion of logo position  */
+  left: -50px;
+  top: 12px;
+  padding: 9px 8px;
+  color: #4169E1;
+  
+}
+form .Form .Right .group{ /*Gestion text boxs*/
+  position: relative; 
+  margin-top: 25px;
+  display: flex;
+  width: 75%;
+  margin-left: 40%;
+  margin-right: 20px;
+}
+form .Form .Right .group input {
+  margin-left: 20px;
+  margin-top: 21px;
+  padding: 10px 10px 10px 0px;
+  border: 1px solid #4169E1;
+  outline-color: #4169E1;
+  border-radius: 20px;
+  width: 100%;
+  text-indent: 10px;
+}
+form .Form .Right .group i {
+  margin-left: 40px;
+  position: absolute; /* Gestion of logo position  */
+  left: -50px;
+  top: 22px;
+  padding: 9px 8px;
+  color: #4169E1;
+  
+}
+form .Form .Right .group .select_button2{
+	margin-left: 20px;
+	margin-top: 13px
+}
+form .Footer-form input { /* Gestion du bouton */
+  margin-top: 10px;
+  background-color: #4169E1;
+  color: white;
+  font-size: 15px;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 40px;
+  outline: none;
+  cursor: pointer;
+  transition: transform 0.5s;
+}
+
+form .Footer-form button {
+  margin-top: 20px;
+  background-color: #4169E1;
+  color: white;
+  font-size: 15px;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 40px;
+  outline: none;
+  cursor: pointer;
+  transition: transform 0.5s;
+
+}
+.Form .Left .group .select_button1 {
+    border: 1px solid #ccc;
+    width: 100%;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: white;
+    color: #1E90FF;
+    position: relative;
+    border: 1px solid #4169E1;
+    margin-left: -25px;
+    
+}
+.Form .Left .group .select_button1 select {
+    padding: 7px 8px;
+    width: 100%;
+    border: none;
+    box-shadow: none;
+    background-color: transparent;
+    background-image: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+.Form .Left .group .select_button1:after {
+    top: 50%;
+    left: 80%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-color: rgba(0, 0, 0, 0);
+    border-top-color: #000000;
+    border-width: 5px;
+    margin-top: -2px;
+    z-index: 100;
+}
+.Form .Right .group .select_button2 {
+    border: 1px solid #ccc;
+    width: 100%;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: white;
+    color: #1E90FF;
+    position: relative;
+    border: 1px solid #4169E1;
+    
+}
+.Form .Right .group .select_button2 select {
+    padding: 7px 8px;
+    width: 100%;
+    border: none;
+    box-shadow: none;
+    background-color: transparent;
+    background-image: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+.Form .Right .group .select_button2:after {
+    top: 50%;
+    left: 90%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-color: rgba(0, 0, 0, 0);
+    border-top-color: #000000;
+    border-width: 5px;
+    margin-top: -2px;
+    z-index: 100;
+}
+.Form .Left .Label{
+	margin-top: 20px;
+	margin-bottom: -30px;
+}
+.Form .Right .Label{
+	margin-top: 20px;
+	margin-bottom: -37px;
+	margin-left: 30%;
+}
+
+
+
+
+s

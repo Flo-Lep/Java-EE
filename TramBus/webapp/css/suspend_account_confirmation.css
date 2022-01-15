@@ -1,0 +1,21 @@
+@charset "UTF-8";
+h1{
+    color: white;
+    margin-top: 5%;
+}
+h2{
+    color: white;
+}
+.Footer-form input{
+  margin-top: 5%;
+  background-color: #4169E1;
+  color: white;
+  font-size: 15px;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 40px;
+  outline: none;
+  cursor: pointer;
+  transition: transform 0.5s;
+  margin-bottom: -10%;
+}@charset "UTF-8";

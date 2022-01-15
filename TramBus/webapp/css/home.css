@@ -1,0 +1,26 @@
+.Presentation{
+	text-align: center;
+	margin-top: 4%;
+	color: #fff;
+}
+
+.Pictures{
+ 	display: flex;    
+    align-items: center;
+    justify-content: center;
+	margin-top: 4%;
+	margin-bottom: -10%
+}
+
+.Logo{
+	margin-bottom: -5%;
+}
+
+
+
+
+
+
+
+
+
